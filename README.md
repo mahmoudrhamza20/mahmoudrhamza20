@@ -4,7 +4,7 @@
 
 ####🔭 I’m currently working on some new projects
 
-#####🌱 I’m currently learning new features in flutter
+🌱 I’m currently learning new features in flutter
  
 ###### 📫 How to reach me: mahmoudrhamza20@gmail.com
 
