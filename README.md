@@ -2,7 +2,7 @@
 
 ## Flutter Developer
 
-#### 🔭 I’m currently working on some new projects
+### 🔭 I’m currently working on some new projects
 
 ####🌱 I’m currently learning new features in flutter
  
